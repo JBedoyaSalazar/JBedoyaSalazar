@@ -47,13 +47,10 @@
 
 ### 🚀 Otras Habilidades  
 
-<!--RECENT_ACTIVTY:start-->
-<!--RECENT_ACTIVTY:last_update-->
-
 - 🤝 **Trabajo en equipo**  
 - 🧩 **Resolución de problemas**  
 - 📚 **Aprendizaje continuo**  
 - 🤔 **Pensamiento crítico**  
 
-### ⚡ Latest Activity
+
 
