@@ -51,3 +51,6 @@
 - 🧩 **Resolución de problemas**  
 - 📚 **Aprendizaje continuo**  
 - 🤔 **Pensamiento crítico**  
+
+### ⚡ Latest Activity
+
