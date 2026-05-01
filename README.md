@@ -8,7 +8,7 @@
 
 ## About me
 
-👨‍💻 **_Estudiante de ingenieria de software (Septimo semestre)_**
+👨‍💻 **_Estudiante de ingenieria de software (Octavo semestre)_**
 
 ✏️ **_Aprendiendo de manera autodidacta y poniendo en practica con diversos proyectos_**
 
